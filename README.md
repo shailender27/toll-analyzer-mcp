@@ -97,6 +97,10 @@ Fully quit from the system tray and relaunch. The `wa-toll-analyzer` server with
 - *"Compare driving from Tacoma to Gig Harbor vs going around, I get 25 MPG"*
 - *"What's the current WA gas price?"*
 
+## Contributors
+
+- [Shailender](https://github.com/shailender27)
+
 ## Tech Stack
 
 - **Node.js + TypeScript**
